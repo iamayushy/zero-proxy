@@ -1,10 +1,10 @@
 {
   "name": "zero-proxy",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "a proxy for you frontend to call any backend on your local ",
   "main": "index.js",
   "bin": {
-    "zero": "node ./index.js"
+    "zero-proxy": "node ./index.js"
   },
   "scripts": {
     "start": "node index.js",
@@ -12,5 +12,5 @@
   },
   "keywords": ["proxy", "cors", "http", "https", "cli"],
   "author": "https://x.com/findayush",
-  "license": "MIT"
+  "license": "ISC"
 }

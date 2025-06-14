@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+console.log("🚀 Starting Zero Proxy...");
 const http = require('http');
 const https = require('https');
 const { URL } = require('url');
