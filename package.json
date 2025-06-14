@@ -1,0 +1,16 @@
+{
+  "name": "zero-proxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "zero-proxy": "node ./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["proxy", "cors", "http", "https", "cli"],
+  "author": "",
+  "license": "ISC"
+}
