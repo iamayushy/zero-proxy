@@ -1,10 +1,10 @@
 {
   "name": "zero-proxy",
-  "version": "0.0.4",
+  "version": "0.0.1-beta",
   "description": "a proxy for you frontend to call any backend on your local ",
   "main": "index.js",
   "bin": {
-    "zero-proxy": "node ./index.js"
+    "zero-proxy": "./index.js"
   },
   "scripts": {
     "start": "node index.js",
