@@ -7,7 +7,8 @@
     "zero-proxy": "node ./index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "node --watch index.js"
   },
   "keywords": ["proxy", "cors", "http", "https", "cli"],
   "author": "https://x.com/findayush",
