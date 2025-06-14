@@ -4,7 +4,7 @@
   "description": "a proxy for you frontend to call any backend on your local ",
   "main": "index.js",
   "bin": {
-    "zero-proxy": "node ./index.js"
+    "zero": "node ./index.js"
   },
   "scripts": {
     "start": "node index.js",
